@@ -1,5 +1,7 @@
 ### Привет, меня зовут Иван 👋
+---
 
+### :man_technologist: Обо мне:
 <!--
 **lisichkin1/lisichkin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
