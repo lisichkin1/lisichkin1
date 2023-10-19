@@ -2,6 +2,9 @@
 ---
 
 ### :man_technologist: Обо мне:
+
+### 💻 Codewars:
+![codewars](https://www.codewars.com/users/lisichkin1/badges/large)
 <!--
 **lisichkin1/lisichkin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
