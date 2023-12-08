@@ -1,7 +1,7 @@
 ### Привет, меня зовут Иван 👋
 ---
 
-### :man_technologist: Обо мне:
+### Обо мне:
 
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/lisichkin1/badges/large)
